@@ -28,4 +28,5 @@ pygame.display.update()
 
 
 #save picture
-pygame.image.save(windowSurfaceObj,'picture.jpg')
+pygame.image.save(windowSurfaceObj,'picture__.jpg')
+
